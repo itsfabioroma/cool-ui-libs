@@ -10,6 +10,7 @@
 - [⭐️⭐️⭐️ Magic UI](https://magicui.design/)
 - [⭐️⭐️⭐️ Sera UI](https://seraui.seraprogrammer.com/)
 - [⭐️⭐️⭐️ Hover Dev](https://www.hover.dev/)
+- [⭐️⭐️ Vaadin](https://vaadin.com/)
 
 ## Utilities
 - [Tweak Shadcn Themes](https://tweakcn.com/)

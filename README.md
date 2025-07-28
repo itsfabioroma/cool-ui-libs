@@ -1,6 +1,17 @@
-## 🧩 Cool UI Libraries Repos
+# 🧩 Cool UI Libraries Repos
 
-- [Aceternity UI](https://ui.aceternity.com/)
-- [Magic UI](https://magicui.design/)
-- [React Bits](https://reactbits.dev/)
-- [Skiper UI](https://skiper-ui.com/)
+## Web
+
+- [⭐️⭐️⭐️⭐️⭐️ Shadcn](https://ui.shadcn.com/)
+- [⭐️⭐️⭐️⭐️⭐️ React Bits](https://reactbits.dev/)
+- [⭐️⭐️⭐️⭐️ Aceternity UI](https://ui.aceternity.com/)
+- [⭐️⭐️⭐️⭐️ Skiper UI](https://skiper-ui.com/)
+- [⭐️⭐️⭐️⭐️ PaceUI](https://www.paceui.com/)
+- [⭐️⭐️⭐️ Magic UI](https://magicui.design/)
+- [⭐️⭐️⭐️ Sera UI](https://seraui.seraprogrammer.com/)
+- [⭐️⭐️⭐️ Hover Dev](https://www.hover.dev/)
+
+## Utilities
+- [Tweak Shadcn Themes](https://tweakcn.com/)
+- [v0](https://v0.dev/)
+- [SuperDesign](https://www.superdesign.dev/)

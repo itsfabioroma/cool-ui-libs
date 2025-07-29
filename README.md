@@ -1,6 +1,6 @@
-# 🧩 Cool UI Libraries Repos
+# 🧩 10x Developer 101
 
-## Web
+## Cool UI Libraries
 
 - ⭐️⭐️⭐️⭐️⭐️ [Shadcn](https://ui.shadcn.com/)
 - ⭐️⭐️⭐️⭐️⭐️ [React Bits](https://reactbits.dev/)
@@ -13,6 +13,11 @@
 - ⭐️⭐️ [Vaadin](https://vaadin.com/)
 
 ## Utilities
-- [Tweak Shadcn Themes](https://tweakcn.com/)
-- [v0](https://v0.dev/)
-- [SuperDesign](https://www.superdesign.dev/)
+- ⭐️⭐️⭐️⭐️⭐️ [Tweak Shadcn Themes](https://tweakcn.com/)
+- ⭐️⭐️⭐️⭐️⭐️ [v0](https://v0.dev/)
+- ⭐️⭐️⭐️⭐️ [SuperDesign](https://www.superdesign.dev/)
+
+
+## Icons
+- ⭐️⭐️⭐️⭐️⭐️ [Thiings](https://www.thiings.co/things)
+- ⭐️⭐️⭐️⭐️ [React Icons](https://react-icons.github.io/react-icons/)
